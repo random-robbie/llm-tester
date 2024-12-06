@@ -2,6 +2,8 @@
 
 A React-based testing tool for comparing and analyzing responses from different Large Language Models.
 
+You should be able to change from openrouter to any other openai compatible API endpoint but you will need to update src/App.jsx with your models you wish to use.
+
 ![GitHub](https://img.shields.io/github/license/random-robbie/llm-tester)
 ![GitHub last commit](https://img.shields.io/github/last-commit/random-robbie/llm-tester)
 
