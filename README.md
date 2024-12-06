@@ -5,6 +5,9 @@ A React-based testing tool for comparing and analyzing responses from different 
 ![GitHub](https://img.shields.io/github/license/random-robbie/llm-tester)
 ![GitHub last commit](https://img.shields.io/github/last-commit/random-robbie/llm-tester)
 
+
+![Screenshot of my project](Screenshot.png)
+
 ## Features
 
 - 🤖 Test multiple LLM models simultaneously
